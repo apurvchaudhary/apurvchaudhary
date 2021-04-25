@@ -1,6 +1,6 @@
 ### Hi there I am 🧑‍🎓 Apurv Chaudhary
 
-<img align="right" src="/home/apurv/Documents/github/apurvchaudhary/static/Rolling Chair (Reel 2017).gif" width="550" height="400" />
+<img align="right" src="static/Rolling Chair (Reel 2017).gif" width="550" height="400" />
 
 #### ✍️ Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at <a href="https://www.apurvchaudhary.site/blogs">blogs</a>
