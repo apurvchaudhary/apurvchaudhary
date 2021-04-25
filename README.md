@@ -19,22 +19,24 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </ul>
 
 #### 🛠️ Technologies & Tools
-<img src="https://img.icons8.com/color/70/000000/python.png"/>
-<img src="https://img.icons8.com/ios/75/000000/django.png"/>
-<img src="https://img.icons8.com/dusk/70/000000/html-5.png"/>
-<img src="https://img.icons8.com/dusk/70/000000/css3.png"/>
-<img src="https://img.icons8.com/color/70/000000/javascript.png"/>
-<img src="https://img.icons8.com/ios-filled/70/000000/jquery.png"/>
-<img src="https://img.icons8.com/color/70/000000/postgreesql.png"/>
-<img src="https://img.icons8.com/color/70/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/70/000000/redis.png"/>
-<img src="https://img.icons8.com/color/70/000000/amazon-web-services.png"/>
-<img src="https://img.icons8.com/plasticine/70/000000/maximize-window--v1.png"/>
+<p float="left">
+<img src="https://img.icons8.com/color/64/000000/python.png"/>
+<img src="https://img.icons8.com/ios/64/000000/django.png"/>
+<img src="https://img.icons8.com/dusk/64/000000/html-5.png"/>
+<img src="https://img.icons8.com/dusk/64/000000/css3.png"/>
+<img src="https://img.icons8.com/color/64/000000/javascript.png"/>
+<img src="https://img.icons8.com/ios-filled/64/000000/jquery.png"/>
+<img src="https://img.icons8.com/color/64/000000/postgreesql.png"/>
+<img src="https://img.icons8.com/color/64/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/64/000000/redis.png"/>
+<img src="https://img.icons8.com/color/64/000000/amazon-web-services.png"/>
+<img src="https://img.icons8.com/plasticine/64/000000/maximize-window--v1.png"/>
+</p>
 
 #### ⚙ IDEs
-<img src="https://img.icons8.com/color/70/000000/pycharm.png"/>
-<img src="https://img.icons8.com/color/70/000000/intellij-idea.png"/>
-<img src="https://img.icons8.com/fluent/70/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/64/000000/pycharm.png"/>
+<img src="https://img.icons8.com/color/64/000000/intellij-idea.png"/>
+<img src="https://img.icons8.com/fluent/64/000000/visual-studio-code-2019.png"/>
 
 #### 🔗 Social Links
 <a href="https://www.apurvchaudhary.site" target="_blank"><img src="https://img.icons8.com/dusk/64/000000/domain.png"/></a>
