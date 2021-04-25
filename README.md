@@ -5,7 +5,7 @@ Knowledgeable and skilled software development professional accustomed to workin
 web applications. Skilled at developing, optimising and reworking systems to meet specific
 customer requirements. Highly proficient in multiple types of programming languages.
 
-<img align="right" src="static/Rolling Chair (Reel 2017).gif" width="350" height="200" />
+<img align="right" src="static/Rolling Chair (Reel 2017).gif" width="400" height="300" />
 
 #### ✍️ Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at <a href="https://www.apurvchaudhary.site/blogs" target="_blank">blogs</a>
@@ -34,10 +34,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </p>
 
 #### ⚙ IDEs
+<p float="left">
 <img src="https://img.icons8.com/color/64/000000/pycharm.png"/>
 <img src="https://img.icons8.com/color/64/000000/intellij-idea.png"/>
 <img src="https://img.icons8.com/fluent/64/000000/visual-studio-code-2019.png"/>
-
+</p>
 #### 🔗 Social Links
 <a href="https://www.apurvchaudhary.site" target="_blank"><img src="https://img.icons8.com/dusk/64/000000/domain.png"/></a>
 <a href="https://www.instagram.com/apurvchaudhary96/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>
