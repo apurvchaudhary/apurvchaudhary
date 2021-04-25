@@ -31,7 +31,15 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <img src="https://img.icons8.com/color/70/000000/amazon-web-services.png"/>
 <img src="https://img.icons8.com/plasticine/70/000000/maximize-window--v1.png"/>
 
-#### 🛠️ IDEs
+#### ⚙ IDEs
 <img src="https://img.icons8.com/color/70/000000/pycharm.png"/>
 <img src="https://img.icons8.com/color/70/000000/intellij-idea.png"/>
 <img src="https://img.icons8.com/fluent/70/000000/visual-studio-code-2019.png"/>
+
+#### 🔗 Social Links
+<a href="https://www.apurvchaudhary.site" target="_blank"><img src="https://img.icons8.com/dusk/64/000000/domain.png"/></a>
+<a href="https://www.instagram.com/apurvchaudhary96/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>
+<a href="https://www.linkedin.com/in/apurv-chaudhary-9b0b7372/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
+<a href="mailto:apurv.sirohi@gmail.com" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/gmail.png"/></a>
+<a href="https://wa.me/918553743806" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/whatsapp.png"/></a>
+<a href="tel:+91-8553743806" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/phone.png"/></a>
