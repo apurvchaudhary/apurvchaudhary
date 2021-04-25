@@ -39,6 +39,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <img src="https://img.icons8.com/color/64/000000/intellij-idea.png"/>
 <img src="https://img.icons8.com/fluent/64/000000/visual-studio-code-2019.png"/>
 </p>
+
 #### 🔗 Social Links
 <a href="https://www.apurvchaudhary.site" target="_blank"><img src="https://img.icons8.com/dusk/64/000000/domain.png"/></a>
 <a href="https://www.instagram.com/apurvchaudhary96/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>
