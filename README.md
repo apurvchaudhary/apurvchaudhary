@@ -5,7 +5,7 @@ Knowledgeable and skilled software development professional accustomed to workin
 web applications. Skilled at developing, optimising and reworking systems to meet specific
 customer requirements. Highly proficient in multiple types of programming languages.
 
-<img align="right" src="static/Rolling Chair (Reel 2017).gif" width="550" height="400" />
+<img align="right" src="static/Rolling Chair (Reel 2017).gif" width="350" height="200" />
 
 #### ✍️ Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at <a href="https://www.apurvchaudhary.site/blogs" target="_blank">blogs</a>
