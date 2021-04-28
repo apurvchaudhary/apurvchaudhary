@@ -33,6 +33,72 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <img src="https://img.icons8.com/plasticine/64/000000/maximize-window--v1.png"/>
 </p>
 
+[comment]: <> (#### 🔧 Skills)
+
+[comment]: <> (<label for="file">Python </label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)
+
+[comment]: <> (<progress id="file" value="90" max="100"></progress>)
+
+[comment]: <> (<br><br>)
+
+[comment]: <> (<label for="file">Django </label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)
+
+[comment]: <> (<progress id="file" value="90" max="100"></progress>)
+
+[comment]: <> (<br><br>)
+
+[comment]: <> (<label for="file">Html </label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)
+
+[comment]: <> (<progress id="file" value="85" max="100"></progress>)
+
+[comment]: <> (<br><br>)
+
+[comment]: <> (<label for="file">Css </label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)
+
+[comment]: <> (<progress id="file" value="80" max="100"></progress>)
+
+[comment]: <> (<br><br>)
+
+[comment]: <> (<label for="file">JavaScript </label>&nbsp;)
+
+[comment]: <> (<progress id="file" value="60" max="100"></progress>)
+
+[comment]: <> (<br><br>)
+
+[comment]: <> (<label for="file">Jquery </label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)
+
+[comment]: <> (<progress id="file" value="50" max="100"></progress>)
+
+[comment]: <> (<br><br>)
+
+[comment]: <> (<label for="file">Postgresql </label>&nbsp;)
+
+[comment]: <> (<progress id="file" value="75" max="100"></progress>)
+
+[comment]: <> (<br><br>)
+
+[comment]: <> (<label for="file">MySql </label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)
+
+[comment]: <> (<progress id="file" value="75" max="100"></progress>)
+
+[comment]: <> (<br><br>)
+
+[comment]: <> (<label for="file">Redis </label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)
+
+[comment]: <> (<progress id="file" value="85" max="100"></progress>)
+
+[comment]: <> (<br><br>)
+
+[comment]: <> (<label for="file">AWS </label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)
+
+[comment]: <> (<progress id="file" value="80" max="100"></progress>)
+
+[comment]: <> (<br><br>)
+
+[comment]: <> (<label for="file">GUI </label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)
+
+[comment]: <> (<progress id="file" value="75" max="100"></progress>)
+
 #### ⚙ IDEs
 <p float="left">
 <img src="https://img.icons8.com/color/64/000000/pycharm.png"/>
