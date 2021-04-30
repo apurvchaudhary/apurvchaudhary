@@ -13,6 +13,8 @@ customer requirements. Highly proficient in multiple types of programming langua
 #### ✍️ Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at <a href="https://www.apurvchaudhary.site/blogs" target="_blank">blogs</a>
 
+<img align="right" src="static/qrcode.png" width="250" height="250"/>
+
 #### 🧑‍🎓 About
 <ul>
 <li>A professional full stack developer.</li>
@@ -20,9 +22,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <li>Python enthusiast</li>
 <li>Official site : <a href="https://www.apurvchaudhary.site" target="_blank">www.apurvchaudhary.site</a></li>
 </ul>
-
-#### 📷 Scan official site QR code
-<img src="static/qrcode.png" width="250" height="250"/>
 
 #### 🛠️ Technologies & Tools
 <p float="left">
