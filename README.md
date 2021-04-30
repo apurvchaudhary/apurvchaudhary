@@ -5,8 +5,6 @@ Knowledgeable and skilled software development professional accustomed to workin
 web applications. Skilled at developing, optimising and reworking systems to meet specific
 customer requirements. Highly proficient in multiple types of programming languages.
 
-<img align="right" src="static/Rolling Chair (Reel 2017).gif" width="350" height="250"/>
-
 #### 📈 GitHub Stats
 ![Apurv's GitHub stats](https://github-readme-stats.vercel.app/api?username=apurvchaudhary&theme=dracula&show_icons=true&line_height=34&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=apurvchaudhary&theme=dracula&langs_count=10)
