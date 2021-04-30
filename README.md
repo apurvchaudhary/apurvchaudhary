@@ -18,6 +18,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <li>Official site : <a href="https://www.apurvchaudhary.site" target="_blank">www.apurvchaudhary.site</a></li>
 </ul>
 
+#### 📷 Scan official site QR code
+<img src="static/qrcode.png" width="250" height="250"/>
+
 #### 🛠️ Technologies & Tools
 <p float="left">
 <img src="https://img.icons8.com/color/64/000000/python.png"/>
