@@ -7,6 +7,11 @@ customer requirements. Highly proficient in multiple types of programming langua
 
 <img align="right" src="static/Rolling Chair (Reel 2017).gif" width="350" height="250"/>
 
+#### 📈 GitHub Stats
+![Apurv's GitHub stats](https://github-readme-stats.vercel.app/api?username=apurvchaudhary&theme=dracula&show_icons=true&line_height=34&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=apurvchaudhary&theme=dracula&langs_count=10)
+![Apurv's github streak](https://github-readme-streak-stats.herokuapp.com/?user=apurvchaudhary&theme=dracula)
+
 #### ✍️ Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at <a href="https://www.apurvchaudhary.site/blogs" target="_blank">blogs</a>
 
