@@ -11,7 +11,7 @@ customer requirements. Highly proficient in multiple types of programming langua
 ![Apurv's github streak](https://github-readme-streak-stats.herokuapp.com/?user=apurvchaudhary&theme=dracula)
 
 #### ✍️ Blog & Writing
-Apart from coding, I also maintain a blog - you can find my articles on my website at <a href="https://www.apurvchaudhary.site/blogs" target="_blank">blogs</a>
+Apart from coding, I also maintain a blog - you can find my articles on my website at <a href="https://www.apurvchaudhary.com/blogs" target="_blank">blogs</a>
 
 <img align="right" src="static/qrcode.png" width="150" height="150"/>
 
@@ -20,7 +20,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <li>A professional full stack developer.</li>
 <li>Currently working as a backend developer.</li>
 <li>Python enthusiast</li>
-<li>Official site : <a href="https://www.apurvchaudhary.site" target="_blank">www.apurvchaudhary.site</a><b> OR scan QR</b></li>
+<li>Official site : <a href="https://www.apurvchaudhary.com" target="_blank">www.apurvchaudhary.com</a><b> OR scan QR</b></li>
 </ul>
 
 #### 🛠️ Technologies & Tools
@@ -46,7 +46,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </p>
 
 #### 🔗 Social Links
-<a href="https://www.apurvchaudhary.site" target="_blank"><img src="https://img.icons8.com/dusk/64/000000/domain.png"/></a>
+<a href="https://www.apurvchaudhary.com" target="_blank"><img src="https://img.icons8.com/dusk/64/000000/domain.png"/></a>
 <a href="https://www.instagram.com/apurvchaudhary96/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>
 <a href="https://www.linkedin.com/in/apurv-chaudhary-9b0b7372/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
 <a href="mailto:apurv.sirohi@gmail.com" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/gmail.png"/></a>
