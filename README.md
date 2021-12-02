@@ -13,7 +13,7 @@ customer requirements. Highly proficient in multiple types of programming langua
 #### ✍️ Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at <a href="https://www.apurvchaudhary.com/blogs" target="_blank">blogs</a>
 
-<img align="right" src="static/qrcode.png" width="150" height="150"/>
+<img align="right" src="qrcode.png" width="150" height="150"/>
 
 #### 🧑‍🎓 About
 <ul>
