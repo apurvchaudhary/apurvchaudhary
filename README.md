@@ -39,6 +39,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <img src="https://img.icons8.com/color/64/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/64/000000/redis.png"/>
 <img src="https://img.icons8.com/color/64/000000/amazon-web-services.png"/>
+<img src="https://img.icons8.com/?size=64&id=VLKafOkk3sBX&format=png&color=000000"/>
 <img src="https://img.icons8.com/plasticine/64/000000/maximize-window--v1.png"/>
 </p>
 
