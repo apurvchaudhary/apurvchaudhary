@@ -47,7 +47,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 #### 🔗 Social Links
 <a href="https://www.apurvchaudhary.com" target="_blank"><img src="https://img.icons8.com/dusk/64/000000/domain.png"/></a>
-<a href="https://www.instagram.com/apurvchaudhary96/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>
 <a href="https://www.linkedin.com/in/apurv-chaudhary-9b0b7372/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
 <a href="mailto:apurv.sirohi@gmail.com" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/gmail.png"/></a>
 <a href="https://wa.me/918553743806" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/whatsapp.png"/></a>
