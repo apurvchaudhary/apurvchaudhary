@@ -26,7 +26,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <p float="left">
 <img src="https://img.icons8.com/color/64/000000/python.png"/>
 <img src="https://img.icons8.com/ios/64/000000/django.png"/>
-  <img src="https://img.icons8.com/color/64/000000/docker.png"/>
+<img src="https://img.icons8.com/color/64/000000/docker.png"/>
+<img src="https://img.icons8.com/?size=64&id=cvzmaEA4kC0o&format=png&color=000000)"/>
 <img src="https://img.icons8.com/dusk/64/000000/html-5.png"/>
 <img src="https://img.icons8.com/dusk/64/000000/css3.png"/>
 <img src="https://img.icons8.com/color/64/000000/javascript.png"/>
